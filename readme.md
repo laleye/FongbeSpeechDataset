@@ -5,7 +5,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8-3776AB?style=for-the-badge&logo=Python&logoColor=f1c40f)](https://www.python.org/downloads/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6604637-3776AB?style=for-the-badge)](https://doi.org/10.5281/zenodo.6604637)
 
+[2th place of Google NLP Hack Series](https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge)
+
 </div>
+
 
 ## Data
 
